@@ -13,7 +13,7 @@ Software engineer student at [1337](https://1337.ma/en/)
 <br />
 
 #
-p align="center">
+<p align="center">
     <a href="www.linkedin.com/in/erraouzi-oussama-736497263">
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/erraouzi-oussama-736497263" />
     </a>
