@@ -13,18 +13,4 @@ Software engineer student at [1337](https://1337.ma/en/)
 <br />
 
 #
-<p align="center">
-    <a href="www.linkedin.com/in/erraouzi-oussama-736497263">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/erraouzi-oussama-736497263" />
-    </a>
-    <span> * </span>
-    <a href="https://twitter.com/suprivada">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
-    </a>
-    <span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
-    </a>
-
-</p>
 
